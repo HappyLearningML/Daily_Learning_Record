@@ -19,8 +19,8 @@
     - SOT最重要的两个难点在于：1) 要追踪的物体没有任何先验知识，可能是任何一种object。 2) 只有第一帧一个标注样本。
     - SOT的本质在于verification而不是classification或者detection！2) SOT需要的是instance级别的判别，而不是在classification和detection中class       级别的判别。如果可以认可这个思路，那么这两篇文章的做法应该非常自然的。个人也认为之前的SOT问题走了很多弯路，motion+verification才是直击问题本       质的解法。
     - 两篇SOT文章：
-      [1] Tao, Ran, Efstratios Gavves, and Arnold WM Smeulders. "Siamese Instance Search for Tracking." 
-      [2] Bertinetto, Luca, et al. "Fully-Convolutional Siamese Networks for Object Tracking."
+      * [1] Tao, Ran, Efstratios Gavves, and Arnold WM Smeulders. "Siamese Instance Search for Tracking." 
+      * [2] Bertinetto, Luca, et al. "Fully-Convolutional Siamese Networks for Object Tracking."
     
 >> 2.
 ************************
