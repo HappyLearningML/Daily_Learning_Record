@@ -42,4 +42,4 @@
 
 # 其他资源:
 1. [朴素贝叶斯法和决策树](http://blog.sina.com.cn/s/blog_62b0682a0101e8xn.html)
-2.
+2. [GitHub 上 57 款最流行的开源深度学习项目](www.oschina.net/news/79500/57-most-popular-deep-learning-project-at-github)
