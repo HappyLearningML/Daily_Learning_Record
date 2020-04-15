@@ -40,3 +40,6 @@
 >> 1.
 >> 2.
 
+# 其他资源:
+1. [朴素贝叶斯法和决策树](http://blog.sina.com.cn/s/blog_62b0682a0101e8xn.html)
+2.
