@@ -39,7 +39,9 @@
 > ## **：**
 >> 1.
 >> 2.
-
+# 机器学习相关:
+1. 
+2. 
 # 其他资源:
 1. [朴素贝叶斯法和决策树](http://blog.sina.com.cn/s/blog_62b0682a0101e8xn.html)
-2. [GitHub 上 57 款最流行的开源深度学习项目](www.oschina.net/news/79500/57-most-popular-deep-learning-project-at-github)
+2. [GitHub 上 57 款最流行的开源深度学习项目](https://mp.weixin.qq.com/s/Ui8pe25z7HwuBc3xIW2m2A)
