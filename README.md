@@ -25,6 +25,9 @@
 2. 目前相关滤波方向贡献最多的是以下两个组(有创新有代码)：
    - 牛津大学：Joao F. Henriques和Luca Bertinetto，代表：CSK, KCF/DCF, Staple, CFNet (其他SiamFC, Learnet)。
    - 林雪平大学：Martin Danelljan，代表：CN, DSST, SRDCF, DeepSRDCF, SRDCFdecon, C-COT, ECO。
+3. [VALSE2017系列之四：目标跟踪领域进展报告](https://mp.weixin.qq.com/s/lXo9CHRszcNrqGPyElmRFg)
+
+4. [【VALSE 前沿技术选介17-07期】联系经典与流行，LK Tracking在Deep时代的新生](https://mp.weixin.qq.com/s/4s54_cPu430n87P1fSPAyQ)
 
 ************************
 
