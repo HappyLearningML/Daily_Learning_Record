@@ -22,7 +22,10 @@
       * [1] Tao, Ran, Efstratios Gavves, and Arnold WM Smeulders. "Siamese Instance Search for Tracking." 
       * [2] Bertinetto, Luca, et al. "Fully-Convolutional Siamese Networks for Object Tracking."
     
->> 2.
+2. 目前相关滤波方向贡献最多的是以下两个组(有创新有代码)：
+   - 牛津大学：Joao F. Henriques和Luca Bertinetto，代表：CSK, KCF/DCF, Staple, CFNet (其他SiamFC, Learnet)。
+   - 林雪平大学：Martin Danelljan，代表：CN, DSST, SRDCF, DeepSRDCF, SRDCFdecon, C-COT, ECO。
+
 ************************
 
 # 毫米波雷达和激光雷达方面:
