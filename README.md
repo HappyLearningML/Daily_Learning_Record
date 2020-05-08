@@ -13,6 +13,9 @@
 > ## **网络结构相关：**
 1. Attention:
   - [视觉注意力机制 | Non-local模块与Self-attention的之间的关系与区别?](https://mp.weixin.qq.com/s/EXVdjF6_Ik20uecfeB7uuQ)
+  - [啥是Attention?](https://mp.weixin.qq.com/s/k8PdZAld2ANVoekuyQxI3w)
+  - [Attention综述：基础原理、变种和最近研究](https://mp.weixin.qq.com/s/t6IboWbX5ztdscDqUjdxXg)
+  -[语义分割中的Attention和低秩重建](https://zhuanlan.zhihu.com/p/77834369?utm_source=wechat_timeline&utm_medium=social&utm_oi=624132523610083328&from=timeline)
 ************************
 > ## **模型剪枝,压缩和量化相关：**
 
