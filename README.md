@@ -55,12 +55,18 @@
 >> 2.
 ************************
 # 机器学习相关:
-1. 
-2. 
+1. 学习课程
+  - [吴恩达：斯坦福CS229机器学习课程(2017)：第一课视频](https://mp.weixin.qq.com/s?__biz=MzA3NDY0MjAyOA==&mid=2247491525&amp;idx=2&amp;sn=f694b562f2c627bf5a301fd380bef76c&source=41#wechat_redirect)
+  - [MachineLP博客目录](https://blog.csdn.net/u014365862/article/details/78422372)
+  - [用一张图理解SVM的脉络](https://mp.weixin.qq.com/s/xkNlqVWZ8_YuX7H-iDmnoQ)
+2. 知识点
+  - [机器学习与深度学习核心知识点总结 ](https://mp.weixin.qq.com/s/JbwS9Zw6LVosDc_dk9rC-Q)
 ************************
 # 其他资源:
 1. [朴素贝叶斯法和决策树](http://blog.sina.com.cn/s/blog_62b0682a0101e8xn.html)
 2. [GitHub 上 57 款最流行的开源深度学习项目](https://mp.weixin.qq.com/s/Ui8pe25z7HwuBc3xIW2m2A)
+3. [这是一份「不正经」的深度学习简述](https://mp.weixin.qq.com/s/P9_DQlykS19WCFRlnSPvWw)
+4. [[计算机视觉论文速递] 2018-03-31](https://mp.weixin.qq.com/s/tiGBmZBDih0isMxSLBA8jA)
 ************************
 # 面试相关:
 1. 
