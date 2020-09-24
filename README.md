@@ -67,6 +67,7 @@
 2. [GitHub 上 57 款最流行的开源深度学习项目](https://mp.weixin.qq.com/s/Ui8pe25z7HwuBc3xIW2m2A)
 3. [这是一份「不正经」的深度学习简述](https://mp.weixin.qq.com/s/P9_DQlykS19WCFRlnSPvWw)
 4. [[计算机视觉论文速递] 2018-03-31](https://mp.weixin.qq.com/s/tiGBmZBDih0isMxSLBA8jA)
+5. [什么是熵？](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247496227&amp;idx=3&amp;sn=c1b10a1a12bf05fd192a75d36d0f7d9d&source=41#wechat_redirect)
 ************************
 # 面试相关:
 1. 
