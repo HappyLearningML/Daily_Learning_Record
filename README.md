@@ -4,7 +4,7 @@
 
 # 视觉图像方面:
 
-> ## **检测相关：**
+> ## **检测相关**
 ** 目标检测 **
   - [YOLO开源项目汇总](https://mp.weixin.qq.com/s/ye-W985naWr2HLvsth1kHw)
   - [YOLO-Fastest：目前最快的YOLO网络！移动端上可达148 FPS](https://mp.weixin.qq.com/s/S5TleBBjGqQsjnNnlGzybA)
@@ -19,7 +19,7 @@
   - [细说目标检测中的Anchors](https://mp.weixin.qq.com/s/vrrRy9exPsifNLodW9w6yw)
   - [目标检测二十年间那些事儿——加速与优化](https://mp.weixin.qq.com/s/Mf5bYWDz1pXvndrN36oV0g)
   - [物体检测中的评价指标](https://mp.weixin.qq.com/s/iy_ER5JykKX63maq3iXx9g)
-** 车道线检测 **
+**车道线检测**
   - [华为提出适用于弯道的车道线检测方法 CurveLane-NAS](https://mp.weixin.qq.com/s/LMo2aygHBFq0cA3hk-Eb_w)
   - [车道线检测github资源](https://github.com/amusi/awesome-lane-detection)
 
