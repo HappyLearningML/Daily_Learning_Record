@@ -5,8 +5,23 @@
 # 视觉图像方面:
 
 > ## **检测相关：**
+** 目标检测 **
   - [YOLO开源项目汇总](https://mp.weixin.qq.com/s/ye-W985naWr2HLvsth1kHw)
   - [YOLO-Fastest：目前最快的YOLO网络！移动端上可达148 FPS](https://mp.weixin.qq.com/s/S5TleBBjGqQsjnNnlGzybA)
+  - [CVPR 2020--目标检测](https://mp.weixin.qq.com/s/fyr501_yGZGHGAlocPHEtw)
+  - [综述：目标检测二十年](https://mp.weixin.qq.com/s/DnAVCE7rXj8SIb9tl_aCQA)
+  - [目标检测优化的实用Trick](https://mp.weixin.qq.com/s/a9L5mqb6whTH2w8B3E-ECQ)
+  - [深入浅出Yolov3和Yolov4](https://mp.weixin.qq.com/s/50HliXthSPMCjDrbQFs9qg)
+  - [一文读懂EfficientDet](https://mp.weixin.qq.com/s/Bz5CpfrlIzlCk1g4g5O02Q)
+  - [使用关键点进行小目标检测](https://mp.weixin.qq.com/s/UbCLqfyEOKUGnvySweUzMw)
+  - [改进小目标检测的几个有效策略](https://mp.weixin.qq.com/s/XJz8SwQiGlck8oF6GeiQUw)
+  - [GitHub：Anchor-free目标检测最全资料集锦](https://mp.weixin.qq.com/s/V32G5rYbmuYSjgKS9jW3BA)
+  - [细说目标检测中的Anchors](https://mp.weixin.qq.com/s/vrrRy9exPsifNLodW9w6yw)
+  - [目标检测二十年间那些事儿——加速与优化](https://mp.weixin.qq.com/s/Mf5bYWDz1pXvndrN36oV0g)
+  - [物体检测中的评价指标](https://mp.weixin.qq.com/s/iy_ER5JykKX63maq3iXx9g)
+** 车道线检测 **
+  - [华为提出适用于弯道的车道线检测方法 CurveLane-NAS](https://mp.weixin.qq.com/s/LMo2aygHBFq0cA3hk-Eb_w)
+  - [车道线检测github资源](https://github.com/amusi/awesome-lane-detection)
 
 ************************
 > ## **分割相关：**
@@ -28,6 +43,10 @@
 ************************
 > ## **模型剪枝,压缩和量化相关：**
 1. [工程Trick|合并BN层加速前向推理](https://mp.weixin.qq.com/s/9vGqeEn0rHp_5rjz5hiAJw)
+************************
+> ## **姿态估计相关：**
+1. [姿态估计开源项目汇总](https://mp.weixin.qq.com/s/JVvnbBblh-ZEP9nsTDZ8Rw)
+************************
 
 > ## **视觉跟踪相关：**
 1. SOT:
@@ -43,12 +62,13 @@
 3. [VALSE2017系列之四：目标跟踪领域进展报告](https://mp.weixin.qq.com/s/lXo9CHRszcNrqGPyElmRFg)
 
 4. [【VALSE 前沿技术选介17-07期】联系经典与流行，LK Tracking在Deep时代的新生](https://mp.weixin.qq.com/s/4s54_cPu430n87P1fSPAyQ)
+5. [ECCV 2020 论文大盘点-目标跟踪篇](https://mp.weixin.qq.com/s/JXh852lAk0xLS85T7-4PCA)
 
 ************************
 
 # 毫米波雷达和激光雷达方面:
 > ## **检测相关：**
->> 1.
+>> 1. [3D目标检测多模态融合算法综述](https://mp.weixin.qq.com/s/k585YMtrLSUmyzBwYR313w)
 >> 2.
 ************************
 > ## **分割相关：**
