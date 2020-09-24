@@ -5,7 +5,8 @@
 # 视觉图像方面:
 
 > ## **检测相关：**
-
+  - [YOLO开源项目汇总](https://mp.weixin.qq.com/s/ye-W985naWr2HLvsth1kHw)
+  - [YOLO-Fastest：目前最快的YOLO网络！移动端上可达148 FPS](https://mp.weixin.qq.com/s/S5TleBBjGqQsjnNnlGzybA)
 
 ************************
 > ## **分割相关：**
