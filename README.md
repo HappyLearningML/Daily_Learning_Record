@@ -78,4 +78,4 @@
 ************************
 # 面试相关:
 1. [Interview相关知识](https://interview.huihut.com/#/)
-2. 
+2. [深度学习面试100题（第1-5题）：经典常考点CNN](https://www.cnblogs.com/think90/p/11461424.html)
