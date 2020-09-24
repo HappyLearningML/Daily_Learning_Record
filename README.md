@@ -17,10 +17,16 @@
   - [Attention综述：基础原理、变种和最近研究](https://mp.weixin.qq.com/s/t6IboWbX5ztdscDqUjdxXg)
   - [语义分割中的Attention和低秩重建](https://zhuanlan.zhihu.com/p/77834369)
   - [ICCV 2019 Oral期望最大化注意力网络 EMANet 详解](https://zhuanlan.zhihu.com/p/78018142)
+  - [CV中的Attention机制：简单而有效的CBAM模块](https://mp.weixin.qq.com/s/gEcIcS5BSArFBX1CrPhVkA)
 2. Loss:
   - [CenterLoss | 减小类间距离](https://mp.weixin.qq.com/s/adK65b-5EymuYtZZwD57CA)
+  - [目标检测损失函数Loss大盘点](https://mp.weixin.qq.com/s/oGe0so06KwLWtrxqzPtAGA)
+  - [Focal Loss和它背后的男人RetinaNet](https://mp.weixin.qq.com/s/MQbaXx2i9d3PG1WMsvQXKg)
+3. 可视化
+  - [跟我学万字长文：最前沿的特征可视化(CAM)技术](https://mp.weixin.qq.com/s/iWynAThQIesrGUt00cSdbA)
 ************************
 > ## **模型剪枝,压缩和量化相关：**
+1. [工程Trick|合并BN层加速前向推理](https://mp.weixin.qq.com/s/9vGqeEn0rHp_5rjz5hiAJw)
 
 > ## **视觉跟踪相关：**
 1. SOT:
