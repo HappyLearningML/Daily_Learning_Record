@@ -79,3 +79,5 @@
 # 面试相关:
 1. [Interview相关知识](https://interview.huihut.com/#/)
 2. [深度学习面试100题（第1-5题）：经典常考点CNN](https://www.cnblogs.com/think90/p/11461424.html)
+3. [[github高赞教程收集]一些有用的机器学习/深度学习/面试问题项目列表](https://zhuanlan.zhihu.com/p/74160076)
+
