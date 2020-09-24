@@ -77,5 +77,5 @@
 5. [什么是熵？](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247496227&amp;idx=3&amp;sn=c1b10a1a12bf05fd192a75d36d0f7d9d&source=41#wechat_redirect)
 ************************
 # 面试相关:
-1. 
+1. [Interview相关知识](https://interview.huihut.com/#/)
 2. 
