@@ -19,6 +19,9 @@
   - [细说目标检测中的Anchors](https://mp.weixin.qq.com/s/vrrRy9exPsifNLodW9w6yw)
   - [目标检测二十年间那些事儿——加速与优化](https://mp.weixin.qq.com/s/Mf5bYWDz1pXvndrN36oV0g)
   - [物体检测中的评价指标](https://mp.weixin.qq.com/s/iy_ER5JykKX63maq3iXx9g)
+  - [小目标检测提升明显！PPDet：减少Anchor-free目标检测中的标签噪声](https://mp.weixin.qq.com/s/Jl47numucnbfZduK3oeqGQ)
+  - [目标检测四大开源神器：Detectron2/mmDetectron/darknet/SimpleDet](https://mp.weixin.qq.com/s/CrdkKj2nPiuUVYDs3Ky05g)
+  - [52.1 AP！MSRA&北大提出RepPoints V2：最强Anchor-free目标检测网络](https://mp.weixin.qq.com/s/t3qmzIdoCPjlfmG1BYDGSw)
 > **车道线检测**
   - [华为提出适用于弯道的车道线检测方法 CurveLane-NAS](https://mp.weixin.qq.com/s/LMo2aygHBFq0cA3hk-Eb_w)
   - [车道线检测github资源](https://github.com/amusi/awesome-lane-detection)
@@ -43,6 +46,7 @@
 ************************
 > ## **模型剪枝,压缩和量化相关：**
 1. [工程Trick|合并BN层加速前向推理](https://mp.weixin.qq.com/s/9vGqeEn0rHp_5rjz5hiAJw)
+2. [YOLOv3 with 轻量级主干网（ShuffleNetV2, GhostNet), 注意力机制（SE Block, CBAM Block, ECA Block），和在GhostNet上的剪枝、量化、蒸馏](https://github.com/HaloTrouvaille/YOLO-Multi-Backbones-Attention)
 ************************
 > ## **姿态估计相关：**
 1. [姿态估计开源项目汇总](https://mp.weixin.qq.com/s/JVvnbBblh-ZEP9nsTDZ8Rw)
@@ -67,9 +71,10 @@
 ************************
 
 # 毫米波雷达和激光雷达方面:
-> ## **检测相关：**
->> 1. [3D目标检测多模态融合算法综述](https://mp.weixin.qq.com/s/k585YMtrLSUmyzBwYR313w)
->> 2.
+> ## **激光雷达检测相关：**
+  - [3D目标检测多模态融合算法综述](https://mp.weixin.qq.com/s/k585YMtrLSUmyzBwYR313w)
+  - [基于激光雷达的3D目标检测开源项目&数据集](https://mp.weixin.qq.com/s/PqelXFcg2OrGdepmdcELKA)
+  - [MMDetection3D：新一代通用3D目标检测平台](https://mp.weixin.qq.com/s/AJWRGQWH3dIw02ElpRNbEg)
 ************************
 > ## **分割相关：**
 ************************
