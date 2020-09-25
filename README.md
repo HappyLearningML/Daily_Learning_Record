@@ -47,6 +47,7 @@
 > ## **模型剪枝,压缩和量化相关：**
 1. [工程Trick|合并BN层加速前向推理](https://mp.weixin.qq.com/s/9vGqeEn0rHp_5rjz5hiAJw)
 2. [YOLOv3 with 轻量级主干网（ShuffleNetV2, GhostNet), 注意力机制（SE Block, CBAM Block, ECA Block），和在GhostNet上的剪枝、量化、蒸馏](https://github.com/HaloTrouvaille/YOLO-Multi-Backbones-Attention)
+3. [深度学习·压缩加速](ttps://www.yuque.com/yahei/hey-yahei/quantization.mxnet2)
 ************************
 > ## **姿态估计相关：**
 1. [姿态估计开源项目汇总](https://mp.weixin.qq.com/s/JVvnbBblh-ZEP9nsTDZ8Rw)
@@ -75,6 +76,7 @@
   - [3D目标检测多模态融合算法综述](https://mp.weixin.qq.com/s/k585YMtrLSUmyzBwYR313w)
   - [基于激光雷达的3D目标检测开源项目&数据集](https://mp.weixin.qq.com/s/PqelXFcg2OrGdepmdcELKA)
   - [MMDetection3D：新一代通用3D目标检测平台](https://mp.weixin.qq.com/s/AJWRGQWH3dIw02ElpRNbEg)
+  - [ECCV 2020论文大盘点-3D目标检测篇](https://mp.weixin.qq.com/s/BTKKi_1mk6AbmO6xTVANCw)
 ************************
 > ## **分割相关：**
 ************************
