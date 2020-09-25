@@ -49,6 +49,7 @@
 2. [YOLOv3 with 轻量级主干网（ShuffleNetV2, GhostNet), 注意力机制（SE Block, CBAM Block, ECA Block），和在GhostNet上的剪枝、量化、蒸馏](https://github.com/HaloTrouvaille/YOLO-Multi-Backbones-Attention)
 3. [深度学习·压缩加速](ttps://www.yuque.com/yahei/hey-yahei/quantization.mxnet2)
 4. [ResNet压缩20倍，Facebook提出新型无监督模型压缩量化方法](https://mp.weixin.qq.com/s/zKtB_geEgUyE3Kq9mxLyFw)
+5. [金哥和你一起学模型压缩——结构篇](https://mp.weixin.qq.com/s/n7neAptKozRz5p5ctvKZrQ)
 ************************
 > ## **姿态估计相关：**
 1. [姿态估计开源项目汇总](https://mp.weixin.qq.com/s/JVvnbBblh-ZEP9nsTDZ8Rw)
