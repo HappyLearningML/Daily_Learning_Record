@@ -55,7 +55,8 @@
 7. [网络压缩最新进展：2019年最新文章概览](https://mp.weixin.qq.com/s/HXxnhMjAchxKSidu45kOeg)
 8. [深度学习模型压缩与加速综述](https://mp.weixin.qq.com/s/MDMtJxcU1_e1qWH3H8XrZQ)
 9. [YOLOv3通道+层剪枝，参数压缩98%，砍掉48个层，提速2倍！](https://mp.weixin.qq.com/s/8ZgiDFvim5wT29icVmuK7g)
-10.[深度学习算法优化系列一 | ICLR 2017《Pruning Filters for Efficient ConvNets》](https://mp.weixin.qq.com/s?__biz=MzA4MjY4NTk0NQ==&mid=2247484370&idx=1&sn=a9629408dc3518144c7aa4fe72be9299&scene=21#wechat_redirect)
+
+10.[深度学习算法优化](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4MjY4NTk0NQ==&action=getalbum&album_id=1344202981092294658&scene=173&from_msgid=2247484370&from_itemidx=1&count=3#wechat_redirect)
 
 ************************
 > ## **姿态估计相关：**
