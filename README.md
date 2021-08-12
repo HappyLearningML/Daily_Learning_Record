@@ -156,10 +156,12 @@
 >> 1. [SLAM、3D vision求职经历](https://mp.weixin.qq.com/s/OIBWP_OIXna8AHwdqomq-Q)
 >> 2.
 ************************
-
-# 标定相关
-> ## **视觉**：
-> ## **联合标定**：
+# 多传感器融合相关
+## 标定相关
+> ## **单传感器标定**：
+> ## **静态标定**：
+> ## **动态标定**：
+## 传感器融合
 # 机器学习相关:
 1. 学习课程
   - [吴恩达：斯坦福CS229机器学习课程(2017)：第一课视频](https://mp.weixin.qq.com/s?__biz=MzA3NDY0MjAyOA==&mid=2247491525&amp;idx=2&amp;sn=f694b562f2c627bf5a301fd380bef76c&source=41#wechat_redirect)
