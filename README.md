@@ -8,12 +8,16 @@
 4. [视频分割在移动端的算法进展综述](https://mp.weixin.qq.com/s/1k7uunL52znSD4-Sm2zI_Q)
 5. [深度学习的目标检测算法是如何解决尺度问题的？](https://mp.weixin.qq.com/s/buH_ooDWHCdbqqb3k-JdSg)
 6. [深度学习超分辨率最新综述：一文道尽技术分类与效果评测](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)
+8. [深度学习论文阅读路线图](https://mp.weixin.qq.com/s/oSZb9kzRVrwpaqHj5dCehg)
+9. [【技术综述】人脸颜值研究综述](https://mp.weixin.qq.com/s/YlrWHDPIPzN4dQO2vo4DjA)
 
 # 训练Trick
 1. [神经网络训练trick](https://mp.weixin.qq.com/s/KaKrB7P4fz9t1uY7g5xyDQ)
 # 视觉图像方面:
 
 > ## **检测相关**
+> **OCR**
+  - [MORAN文本识别算法开源，刷新多个OCR数据集state-of-the-art](https://mp.weixin.qq.com/s/J5DGF3JRZxk1-fAQSQNvkQ)
 > **目标检测**
   - [YOLO开源项目汇总](https://mp.weixin.qq.com/s/ye-W985naWr2HLvsth1kHw)
   - [YOLO-Fastest：目前最快的YOLO网络！移动端上可达148 FPS](https://mp.weixin.qq.com/s/S5TleBBjGqQsjnNnlGzybA)
@@ -95,6 +99,7 @@
   - [超越ResNet：Res2Net；目标检测最新网络：FCOS ；何恺明最新论文：RandWire-WS](https://mp.weixin.qq.com/s/yExLyUfGO1xYlzPRscOuKQ)
   - [分割、检测与定位，高分辨率网络显神威！这会是席卷深度学习的通用结构吗？](https://mp.weixin.qq.com/s/PIq78vhNQxAKntnZilL4pQ)
   - [即插即用新卷积OctConv：提升CNN性能、速度翻倍](https://mp.weixin.qq.com/s/fodfM2ZUukpyVrO3-hiSIg)
+  - [ResNet及其变种的结构梳理、有效性分析与代码解读（PyTorch）](https://mp.weixin.qq.com/s/8wvRR6pAWSpx1BLV-SQk8A)
 6.优化器
  - [速度比肩Adam，性能媲美SGD，ICLR领域主席赞不绝口](https://mp.weixin.qq.com/s/KyhR2BKQR3VtzSeIjYkKxw)
 ************************
@@ -171,6 +176,7 @@
 2. 知识点
   - [机器学习与深度学习核心知识点总结 ](https://mp.weixin.qq.com/s/JbwS9Zw6LVosDc_dk9rC-Q)
   - [机器学习与深度学习核心知识点总结--写在校园招聘即将开始时](https://mp.weixin.qq.com/s/r9D0O0t91Kg9Nfo0WHegzg)
+
 ************************
 # 其他资源:
 1. [朴素贝叶斯法和决策树](http://blog.sina.com.cn/s/blog_62b0682a0101e8xn.html)
@@ -186,4 +192,6 @@
 3. [[github高赞教程收集]一些有用的机器学习/深度学习/面试问题项目列表](https://zhuanlan.zhihu.com/p/74160076)
 4. [机器学习与深度学习常见面试题（上）](https://mp.weixin.qq.com/s/e8rlmjNp9solM3ZJXsioaA)
 5. [机器学习与深度学习常见面试题（下）](https://mp.weixin.qq.com/s/aW9yF15lPQWIrQTPu8ki2A)
+6. [程序员如何快速准备面试中的算法](https://mp.weixin.qq.com/s/P9UvVLuQwrA2yYOlTyRbYA)
+7. [下次面试若再被问到二叉树，希望你能对答如流](https://mp.weixin.qq.com/s/NMBxUJCg1gW4hu9VJuZbYg)
 
