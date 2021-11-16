@@ -10,6 +10,7 @@
 6. [深度学习超分辨率最新综述：一文道尽技术分类与效果评测](https://mp.weixin.qq.com/s/G55dxHfMYxWzjz4_8YnUaw)
 8. [深度学习论文阅读路线图](https://mp.weixin.qq.com/s/oSZb9kzRVrwpaqHj5dCehg)
 9. [【技术综述】人脸颜值研究综述](https://mp.weixin.qq.com/s/YlrWHDPIPzN4dQO2vo4DjA)
+10. [CVPR2019目标检测方法进展综述](https://mp.weixin.qq.com/s/trh23Bm9KlgV3Pz7H5NElw)
 
 # 训练Trick
 1. [神经网络训练trick](https://mp.weixin.qq.com/s/KaKrB7P4fz9t1uY7g5xyDQ)
@@ -55,6 +56,8 @@
   - [中科院牛津华为诺亚提出：CenterNet，One-stage目标检测最强算法！可达47mAP，已开源！](https://mp.weixin.qq.com/s/jX7fwIFKexraVQhqmJMvKA)
   - [吊打YOLOv3！普林斯顿大学提出：CornerNet-Lite，基于关键点的实时且精度高的目标检测算法，已开源！](https://mp.weixin.qq.com/s/lk268kc55Lgz1d_21zg26A)
   - [CVPR 2019 | 旷视提出新型目标检测损失函数：定位更精准](https://mp.weixin.qq.com/s/mSjBiRp3J2t0VutvQ6soZQ)
+  - [目标检测训练trick超级大礼包—不改模型提升精度，值得拥有](https://mp.weixin.qq.com/s/pkFcmm15gnuRJtngFX7f0w)
+  - [CVPR 2019 Oral | 京东目标检测算法ScratchDet的深入思考](https://mp.weixin.qq.com/s/4nTIiivx-KTj6QMrGl18iw)
 > **车道线检测**
   - [华为提出适用于弯道的车道线检测方法 CurveLane-NAS](https://mp.weixin.qq.com/s/LMo2aygHBFq0cA3hk-Eb_w)
   - [车道线检测github资源](https://github.com/amusi/awesome-lane-detection)
@@ -73,6 +76,7 @@
 8. [【分割模型解读】感受野与分辨率的控制术—空洞卷积](https://mp.weixin.qq.com/s/NjFdu6iP3Sn9GbDhrbpisQ)
 9. [目标检测：Anchor-Free时代](https://mp.weixin.qq.com/s/_9GbqUjNuUmjMJ3TvWdmkQ)
 10. [秒杀DeepLabv3+与UNet的表面缺陷检测网络](https://mp.weixin.qq.com/s/bbFDJ6PjjDZqdnPLMqBuKA)
+11. [揭秘阿里巴巴神奇的人物抠图算法内幕](https://mp.weixin.qq.com/s/01D9wYK92i4PjjGcwFTxOw)
 ************************
 > ## **网络结构相关：**
 1. Attention:
@@ -164,6 +168,7 @@
 # 多传感器融合相关
 ## 标定相关
 > ## **单传感器标定**：
+  - [从零开始学习「张氏相机标定法」](https://mp.weixin.qq.com/s/48jMBVVEqQp3IR6NpUy2QA)
 > ## **静态标定**：
 > ## **动态标定**：
 ## 传感器融合
@@ -176,7 +181,21 @@
 2. 知识点
   - [机器学习与深度学习核心知识点总结 ](https://mp.weixin.qq.com/s/JbwS9Zw6LVosDc_dk9rC-Q)
   - [机器学习与深度学习核心知识点总结--写在校园招聘即将开始时](https://mp.weixin.qq.com/s/r9D0O0t91Kg9Nfo0WHegzg)
+  - [AI工程师需要知道的5个聚类算法](https://mp.weixin.qq.com/s/P332yyI3_gY5ds-PwxWxWw)
 
+************************
+************************
+# 图像算法:
+1. [实战 | 图像矫正技术](https://mp.weixin.qq.com/s/Cub2LXXAWk_6IZKYLOZPbQ)
+************************
+************************
+# 编程语言:
+## C/C++：
+1. [STL 中有哪些副作用或稍不注意会产生性能开销的地方？](https://mp.weixin.qq.com/s/U-p6hhyktsEbAdLqulhD6Q)
+
+
+## Python:
+1. [深度解读Python深拷贝与浅拷贝问题](https://mp.weixin.qq.com/s/Eb3fXkfM58XiCOuo8kPTpg)
 ************************
 # 其他资源:
 1. [朴素贝叶斯法和决策树](http://blog.sina.com.cn/s/blog_62b0682a0101e8xn.html)
